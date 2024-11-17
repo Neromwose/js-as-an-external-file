@@ -1,4 +1,4 @@
 function myFunction() {
-    var a = 4;
+    var a = 9;
     document.getElementById("demo").innerHTML = a*a;
   } 
